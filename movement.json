@@ -1,0 +1,1015 @@
+{
+ "dungeonNode0": {
+  "WASD": {
+   "W": null,
+   "A": "enemyNode0",
+   "S": "enemyNode0",
+   "D": null
+  },
+  "position": [
+   1680,
+   16
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  },
+  "minigame": "kahoot"
+ },
+ "enemyNode0": {
+  "WASD": {
+   "W": "dungeonNode0",
+   "A": "enemyNode5",
+   "S": "enemyNode5",
+   "D": "healNode0"
+  },
+  "position": [
+   1552,
+   144
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode1": {
+  "WASD": {
+   "W": null,
+   "A": "enemyNode3",
+   "S": "enemyNode7",
+   "D": "enemyNode2"
+  },
+  "position": [
+   1104,
+   208
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode2": {
+  "WASD": {
+   "W": null,
+   "A": "enemyNode1",
+   "S": null,
+   "D": "enemyNode4"
+  },
+  "position": [
+   1200,
+   208
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "healNode0": {
+  "WASD": {
+   "W": "enemyNode0",
+   "A": "enemyNode0",
+   "S": null,
+   "D": null
+  },
+  "position": [
+   1616,
+   208
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode3": {
+  "WASD": {
+   "W": "enemyNode1",
+   "A": "enemyNode13",
+   "S": "enemyNode13",
+   "D": "enemyNode1"
+  },
+  "position": [
+   976,
+   240
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode4": {
+  "WASD": {
+   "W": "enemyNode2",
+   "A": "enemyNode2",
+   "S": "enemyNode8",
+   "D": "enemyNode8"
+  },
+  "position": [
+   1328,
+   240
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode5": {
+  "WASD": {
+   "W": "enemyNode0",
+   "A": "enemyNode8",
+   "S": "enemyNode8",
+   "D": "enemyNode9"
+  },
+  "position": [
+   1424,
+   240
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode6": {
+  "WASD": {
+   "W": "enemyNode1",
+   "A": null,
+   "S": "enemyNode11",
+   "D": null
+  },
+  "position": [
+   1040,
+   304
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode7": {
+  "WASD": {
+   "W": "enemyNode1",
+   "A": null,
+   "S": "enemyNode15",
+   "D": null
+  },
+  "position": [
+   1168,
+   304
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode8": {
+  "WASD": {
+   "W": "enemyNode5",
+   "A": "enemyNode4",
+   "S": "enemyNode12",
+   "D": "enemyNode10"
+  },
+  "position": [
+   1360,
+   304
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode9": {
+  "WASD": {
+   "W": "enemyNode5",
+   "A": "enemyNode5",
+   "S": null,
+   "D": null
+  },
+  "position": [
+   1552,
+   304
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode10": {
+  "WASD": {
+   "W": "enemyNode8",
+   "A": "enemyNode8",
+   "S": "enemyNode16",
+   "D": "enemyNode16"
+  },
+  "position": [
+   1424,
+   336
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode11": {
+  "WASD": {
+   "W": "enemyNode6",
+   "A": null,
+   "S": "enemyNode14",
+   "D": null
+  },
+  "position": [
+   1040,
+   368
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode12": {
+  "WASD": {
+   "W": "enemyNode8",
+   "A": "enemyNode15",
+   "S": "enemyNode15",
+   "D": "enemyNode8"
+  },
+  "position": [
+   1296,
+   368
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode13": {
+  "WASD": {
+   "W": "enemyNode3",
+   "A": null,
+   "S": "enemyNode18",
+   "D": "enemyNode14"
+  },
+  "position": [
+   944,
+   400
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode14": {
+  "WASD": {
+   "W": "enemyNode11",
+   "A": "enemyNode13",
+   "S": null,
+   "D": "enemyNode15"
+  },
+  "position": [
+   1072,
+   400
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode15": {
+  "WASD": {
+   "W": "enemyNode7",
+   "A": "enemyNode14",
+   "S": "enemyNode20",
+   "D": "enemyNode12"
+  },
+  "position": [
+   1232,
+   400
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode16": {
+  "WASD": {
+   "W": "enemyNode10",
+   "A": "enemyNode17",
+   "S": "enemyNode17",
+   "D": "enemyNode10"
+  },
+  "position": [
+   1424,
+   400
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode17": {
+  "WASD": {
+   "W": "enemyNode16",
+   "A": "enemyNode19",
+   "S": "enemyNode19",
+   "D": "enemyNode16"
+  },
+  "position": [
+   1360,
+   464
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode18": {
+  "WASD": {
+   "W": "enemyNode13",
+   "A": null,
+   "S": "enemyNode21",
+   "D": null
+  },
+  "position": [
+   944,
+   496
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode19": {
+  "WASD": {
+   "W": "enemyNode17",
+   "A": "enemyNode20",
+   "S": "enemyNode20",
+   "D": "enemyNode17"
+  },
+  "position": [
+   1296,
+   528
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode20": {
+  "WASD": {
+   "W": "enemyNode15",
+   "A": null,
+   "S": "enemyNode24",
+   "D": "enemyNode19"
+  },
+  "position": [
+   1232,
+   560
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode21": {
+  "WASD": {
+   "W": "enemyNode18",
+   "A": null,
+   "S": "enemyNode23",
+   "D": null
+  },
+  "position": [
+   944,
+   624
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "healNode1": {
+  "WASD": {
+   "W": null,
+   "A": null,
+   "S": null,
+   "D": "enemyNode22"
+  },
+  "position": [
+   464,
+   720
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode22": {
+  "WASD": {
+   "W": null,
+   "A": "healNode1",
+   "S": "dungeonNode1",
+   "D": "enemyNode23"
+  },
+  "position": [
+   528,
+   720
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode23": {
+  "WASD": {
+   "W": "enemyNode21",
+   "A": "enemyNode22",
+   "S": "enemyNode25",
+   "D": "enemyNode24"
+  },
+  "position": [
+   944,
+   720
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode24": {
+  "WASD": {
+   "W": "enemyNode20",
+   "A": "enemyNode23",
+   "S": "enemyNode26",
+   "D": "enemyNode20"
+  },
+  "position": [
+   1168,
+   720
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "dungeonNode1": {
+  "WASD": {
+   "W": "enemyNode22",
+   "A": "enemyNode22",
+   "S": null,
+   "D": null
+  },
+  "position": [
+   560,
+   816
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  },
+  "minigame": "study"
+ },
+ "enemyNode25": {
+  "WASD": {
+   "W": "enemyNode23",
+   "A": null,
+   "S": "enemyNode28",
+   "D": null
+  },
+  "position": [
+   944,
+   816
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode26": {
+  "WASD": {
+   "W": "enemyNode24",
+   "A": null,
+   "S": "enemyNode27",
+   "D": null
+  },
+  "position": [
+   1168,
+   848
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode27": {
+  "WASD": {
+   "W": "enemyNode26",
+   "A": null,
+   "S": "healNode2",
+   "D": null
+  },
+  "position": [
+   1168,
+   944
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode28": {
+  "WASD": {
+   "W": "enemyNode25",
+   "A": null,
+   "S": "enemyNode30",
+   "D": null
+  },
+  "position": [
+   944,
+   976
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "healNode2": {
+  "WASD": {
+   "W": "enemyNode27",
+   "A": "enemyNode32",
+   "S": "enemyNode32",
+   "D": "enemyNode29"
+  },
+  "position": [
+   1200,
+   1008
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode29": {
+  "WASD": {
+   "W": null,
+   "A": "healNode2",
+   "S": "dungeonNode2",
+   "D": null
+  },
+  "position": [
+   1488,
+   1008
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode30": {
+  "WASD": {
+   "W": "enemyNode28",
+   "A": "enemyNode31",
+   "S": null,
+   "D": "enemyNode32"
+  },
+  "position": [
+   944,
+   1072
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "dungeonNode2": {
+  "WASD": {
+   "W": "enemyNode29",
+   "A": null,
+   "S": null,
+   "D": null
+  },
+  "position": [
+   1488,
+   1104
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  },
+  "minigame": "soccer"
+ },
+ "enemyNode31": {
+  "WASD": {
+   "W": "enemyNode30",
+   "A": "enemyNode37",
+   "S": "enemyNode37",
+   "D": "enemyNode30"
+  },
+  "position": [
+   816,
+   1136
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode32": {
+  "WASD": {
+   "W": "enemyNode30",
+   "A": "enemyNode30",
+   "S": "enemyNode38",
+   "D": "healNode2"
+  },
+  "position": [
+   1072,
+   1136
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode33": {
+  "WASD": {
+   "W": null,
+   "A": "dungeonNode3",
+   "S": "dungeonNode3",
+   "D": "enemyNode34"
+  },
+  "position": [
+   112,
+   1264
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode34": {
+  "WASD": {
+   "W": null,
+   "A": "enemyNode33",
+   "S": null,
+   "D": "enemyNode35"
+  },
+  "position": [
+   336,
+   1264
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode35": {
+  "WASD": {
+   "W": null,
+   "A": "enemyNode34",
+   "S": null,
+   "D": "enemyNode36"
+  },
+  "position": [
+   464,
+   1264
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode36": {
+  "WASD": {
+   "W": null,
+   "A": "enemyNode35",
+   "S": null,
+   "D": "enemyNode37"
+  },
+  "position": [
+   592,
+   1264
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode37": {
+  "WASD": {
+   "W": "enemyNode31",
+   "A": "enemyNode36",
+   "S": "enemyNode39",
+   "D": null
+  },
+  "position": [
+   752,
+   1264
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode38": {
+  "WASD": {
+   "W": "enemyNode32",
+   "A": null,
+   "S": "enemyNode40",
+   "D": null
+  },
+  "position": [
+   1136,
+   1264
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode39": {
+  "WASD": {
+   "W": "enemyNode37",
+   "A": "enemyNode37",
+   "S": "enemyNode41",
+   "D": "enemyNode41"
+  },
+  "position": [
+   816,
+   1392
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode40": {
+  "WASD": {
+   "W": "enemyNode38",
+   "A": "enemyNode41",
+   "S": "enemyNode41",
+   "D": "enemyNode38"
+  },
+  "position": [
+   1072,
+   1392
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "dungeonNode3": {
+  "WASD": {
+   "W": "enemyNode33",
+   "A": null,
+   "S": null,
+   "D": "enemyNode33"
+  },
+  "position": [
+   16,
+   1424
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  },
+  "minigame": "card"
+ },
+ "enemyNode41": {
+  "WASD": {
+   "W": null,
+   "A": "enemyNode39",
+   "S": "enemyNode42",
+   "D": "enemyNode40"
+  },
+  "position": [
+   944,
+   1456
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "healNode3": {
+  "WASD": {
+   "W": null,
+   "A": null,
+   "S": null,
+   "D": "enemyNode42"
+  },
+  "position": [
+   784,
+   1616
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode42": {
+  "WASD": {
+   "W": "enemyNode41",
+   "A": "healNode3",
+   "S": "enemyNode43",
+   "D": null
+  },
+  "position": [
+   944,
+   1616
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "dungeonNode4": {
+  "WASD": {
+   "W": null,
+   "A": null,
+   "S": null,
+   "D": "enemyNode43"
+  },
+  "position": [
+   688,
+   1744
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  },
+  "minigame": "study"
+ },
+ "enemyNode43": {
+  "WASD": {
+   "W": "enemyNode42",
+   "A": "dungeonNode4",
+   "S": "enemyNode44",
+   "D": null
+  },
+  "position": [
+   944,
+   1744
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode44": {
+  "WASD": {
+   "W": "enemyNode43",
+   "A": null,
+   "S": "enemyNode45",
+   "D": null
+  },
+  "position": [
+   944,
+   1936
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "enemyNode45": {
+  "WASD": {
+   "W": "enemyNode44",
+   "A": null,
+   "S": "healNode4",
+   "D": null
+  },
+  "position": [
+   944,
+   2064
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ },
+ "healNode4": {
+  "WASD": {
+   "W": "enemyNode45",
+   "A": null,
+   "S": null,
+   "D": null
+  },
+  "position": [
+   944,
+   2288
+  ],
+  "pathAnimation": {
+   "W": [],
+   "A": [],
+   "S": [],
+   "D": []
+  }
+ }
+}

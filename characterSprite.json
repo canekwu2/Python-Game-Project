@@ -1,0 +1,27 @@
+{"images":{
+"chidSprite.png":
+{
+    "image":{"x": 0, "y": 0, "w": 64, "h":128}
+   
+
+   
+	
+
+},
+"NicoSprite.png":
+{
+    "image":{"x": 0, "y": 128, "w": 64, "h":128}    
+  
+}
+},
+
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "two_trainer_sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1300,"h":130},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d28ac0b7501a5529d4fb7e6446af8ab1:9baa5314d68a3adb51408e50596929c6:b0ad5120fa5d71ceb5167809dad98e22$"
+}
+}

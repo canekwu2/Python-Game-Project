@@ -1,0 +1,31 @@
+{
+    "nodes":{
+        "healNode.png":{
+            "image":{"x":0,"y":0,"w":32,"h":32}
+        },
+        "enemyNode.png":{
+            "image":{"x":32,"y":0,"w":32,"h":32}
+        },
+        "dungeonNode.png":{
+            "image":{"x":64,"y":0,"w":32,"h":32}
+
+        },
+        "sidewalk.png":{
+            "image":{"x":96,"y":0,"w":32,"h":32}
+        },
+        "vertRoad.png":{
+            "image":{"x":0,"y":32,"w":32,"h":32}
+        },
+        "horizRoad.png":{
+            "image":{"x":32,"y":32,"w":32,"h":32}
+        },
+        "clearedNode.png":{
+            "image":{"x":64,"y":32,"w":32,"h":32}
+        }
+    },
+    "meta":{
+        "image": "sp1.png",
+        "size": {"w":128,"h":64},
+        "scale": "1"
+    }
+}
